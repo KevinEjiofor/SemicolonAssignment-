@@ -1,0 +1,13 @@
+public class AreaOfCircle{
+
+	public static void main(String[] args ){
+	
+	double area;
+	 area= radius*radius*3.14159;
+	double radius;
+		radius+20;
+	
+		System.out.print("the area of a circle of radius" + radius +"IS" +area
+		
+		}
+} 
